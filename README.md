@@ -1,2 +1,2 @@
 # Portfolio
-A  site describing my field of interest sand projects  done by me.
+A  site describing my field of interests and projects  done by me.
